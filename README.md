@@ -1,5 +1,4 @@
-## Subscriber
-
+## Subscriber v0.0.1
 
 ![Image Platform](https://github.com/EnoRage/watchmarket-price-alerts/raw/master/draft.jpg)
 
