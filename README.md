@@ -1,4 +1,8 @@
 ## Subscriber
+
+
+![Image Platform](https://github.com/EnoRage/watchmarket-price-alerts/raw/master/draft.jpg)
+
 1. Get data from queue
 2. Write it to DB 
 
